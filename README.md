@@ -1,2 +1,2 @@
 # Week-1
-This project aims to predict multiple water quality parameters using advanced machine learning techniques. It leverages a MultiOutputRegressor wrapped around a RandomForestRegressor to handle multi-target regression tasks effectively.
+This project predicts different water quality parameters using machine learning. It uses a Random Forest model to make multiple predictions at once
