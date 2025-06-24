@@ -4,5 +4,5 @@ This project predicts different water quality parameters using machine learning.
 
 
 
-#Model Link
+#Model Link: Pollution model
 https://drive.google.com/file/d/1b6R2QklvWJIWNMLW4q1pWe4B1Ker60y6/view?usp=sharing
